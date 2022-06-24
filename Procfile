@@ -1,0 +1,1 @@
+worker: java -jar target/damo2-0.0.1-SNAPSHOT.jar
